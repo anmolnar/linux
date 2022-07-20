@@ -1,2 +1,3 @@
-# linux
-Replace my linux notes in random text files
+# Linux
+Replace my linux notes placed in random text files.
+
